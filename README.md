@@ -2,4 +2,6 @@
 Implementation of the ls command in Rust
 
 # Building and running
-```s```
+```cargo build --release
+   cd release/target
+   ./small-ls```
