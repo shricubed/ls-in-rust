@@ -1,5 +1,5 @@
 [package]
-name = "file-commands"
+name = "small-ls"
 version = "0.1.0"
 authors = ["Shrikar Vasisht <svasisht@umd.edu>"]
 edition = "2018"
